@@ -33,7 +33,7 @@ jobs:
       - run: npm ci
       - run: npm run write-translations
       - run: npm run build
-      - run: npm run export:codex
+
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
