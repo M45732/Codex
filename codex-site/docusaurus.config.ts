@@ -108,7 +108,7 @@ const config: Config = {
           items: [
             {
               label: 'Codex of Resonance',
-              to: '/docs/intro',
+              to: '/docs/00-toc',
             },
           ],
         },
