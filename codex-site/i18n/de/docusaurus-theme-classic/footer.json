@@ -13,7 +13,7 @@
   },
   "link.item.label.Codex of Resonance": {
     "message": "Codex of Resonance",
-    "description": "The label of footer link with label=Codex of Resonance linking to /docs/00-toc"
+    "description": "The label of footer link with label=Codex of Resonance linking to /docs/toc"
   },
   "link.item.label.Stack Overflow": {
     "message": "Stack Overflow",
