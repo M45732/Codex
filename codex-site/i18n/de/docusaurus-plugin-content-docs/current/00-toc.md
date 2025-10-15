@@ -1,5 +1,5 @@
 ---
-id: inhalt
+id: toc
 title: "📖 Inhaltsverzeichnis – Der Vereinheitlichte Kodex der Resonanz"
 sidebar_label: "Inhalt"
 ---
