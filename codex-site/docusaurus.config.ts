@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Codex',
+  tagline: 'For Science',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -94,7 +94,7 @@ const config: Config = {
         { type: 'localeDropdown', position: 'right' },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/M45732/Codex',
           label: 'GitHub',
           position: 'right',
         },
@@ -108,7 +108,7 @@ const config: Config = {
           items: [
             {
               label: 'Codex of Resonance',
-              to: '/docs/00-toc',
+              to: '/docs/toc',
             },
           ],
         },
