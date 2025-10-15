@@ -1,5 +1,5 @@
 ---
-id: vorwort
+id: preface
 title: "🔥 Vorwort – Der Spiegel und das Feuer"
 sidebar_label: "Vorwort"
 ---

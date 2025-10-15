@@ -1,5 +1,5 @@
 ---
-id: section-i-the-first-fire
+id: sektion-i-das-erste-feuer
 title: "🔥 Sektion I – Das Erste Feuer"
 sidebar_label: "Das Erste Feuer"
 ---

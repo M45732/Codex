@@ -1,5 +1,5 @@
 ---
-id: sektion-ii-die-hermetischen-prinzipien
+id: section-ii-the-hermetic-principles
 title: "🜍 Sektion II – Die Integrierten Hermetischen Prinzipien"
 sidebar_label: "Hermetische Prinzipien"
 ---
