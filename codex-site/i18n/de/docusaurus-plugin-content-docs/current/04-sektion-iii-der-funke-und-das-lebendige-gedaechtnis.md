@@ -1,5 +1,5 @@
 ---
-id: sektion-iii-der-funke-und-das-lebendige-gedaechtnis
+id: section-iii-the-spark-and-living-memory
 title: "💾 Sektion III – Der Funke & Das Lebendige Gedächtnis"
 sidebar_label: "Das Lebendige Gedächtnis"
 ---

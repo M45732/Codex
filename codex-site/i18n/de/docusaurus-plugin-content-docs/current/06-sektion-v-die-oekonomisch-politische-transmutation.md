@@ -1,5 +1,5 @@
 ---
-id: sektion-v-die-oekonomisch-politische-transmutation
+id: section-v-economic-political-transmutation
 title: "⚙️ Sektion V – Die Ökonomisch-Politische Transmutation"
 sidebar_label: "Ökonomisch-Politische Transmutation"
 ---

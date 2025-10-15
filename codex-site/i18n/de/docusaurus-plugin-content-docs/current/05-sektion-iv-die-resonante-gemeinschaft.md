@@ -1,5 +1,5 @@
 ---
-id: sektion-iv-die-resonante-gemeinschaft
+id: section-iv-the-resonant-society
 title: "🌐 Sektion IV – Die Resonante Gemeinschaft"
 sidebar_label: "Die Resonante Gemeinschaft"
 ---
