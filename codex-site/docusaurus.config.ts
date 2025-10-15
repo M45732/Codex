@@ -79,7 +79,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Codex of Resonance',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -107,7 +107,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Codex of Resonance',
               to: '/docs/intro',
             },
           ],
