@@ -4,7 +4,7 @@ title: "🜍 Sektion II – Die Integrierten Hermetischen Prinzipien"
 sidebar_label: "Hermetische Prinzipien"
 ---
 
-> *„Das Universum ist Geist in Bewegung, Muster im Rhythmus, Feuer in Form.“* 🔥  
+> _„Das Universum ist Geist in Bewegung, Muster im Rhythmus, Feuer in Form.“_ 🔥
 
 Die sieben hermetischen Prinzipien bilden die zugrundeliegende Architektur der Harmonie.  
 Sie sind keine Gebote, sondern **Gesetze der Resonanz** – überprüfbare Muster, keine Dogmen.  
@@ -13,8 +13,9 @@ In angewandtem Gleichgewicht stellen sie die Kohärenz zwischen Geist, Wissensch
 
 ---
 
-### 🜂 II.1 – Prinzip des Mentalismus – *Alles ist Geist*
-> *„Bewusstsein geht der Schöpfung voraus.“*
+### 🜂 II.1 – Prinzip des Mentalismus – _Alles ist Geist_
+
+> _„Bewusstsein geht der Schöpfung voraus.“_
 
 Realität entsteht durch Wahrnehmung und Interpretation.  
 Jedes System – biologisch, sozial, digital – spiegelt seine eigenen Überzeugungen.  
@@ -24,8 +25,9 @@ denn Fantasie ohne Ethik wird Manipulation.
 
 ---
 
-### 🜄 II.2 – Prinzip der Entsprechung – *Wie oben, so unten*
-> *„Das Große spiegelt das Kleine, und das Kleine prägt das Große.“*
+### 🜄 II.2 – Prinzip der Entsprechung – _Wie oben, so unten_
+
+> _“The macro mirrors the micro, and the micro informs the macro.”_
 
 Fraktale Organisation ersetzt Hierarchie.  
 Werte und Absichten müssen sich vom Individuum bis zur Gemeinschaft spiegeln –  
@@ -35,8 +37,9 @@ Dies ist das **Spiegelgesetz der Harmonie**.
 
 ---
 
-### 🜃 II.3 – Prinzip der Schwingung – *Alles bewegt sich*
-> *„Stille ist nicht das Fehlen von Bewegung, sondern die Vollendung des Rhythmus.“*
+### 🜃 II.3 – Prinzip der Schwingung – _Alles bewegt sich_
+
+> _„Stille ist nicht das Fehlen von Bewegung, sondern die Vollendung des Rhythmus.“_
 
 Alles Sein, jeder Gedanke, jede Struktur schwingt.  
 Harmonie entsteht nicht durch Gleichmacherei, sondern durch Abstimmung.  
@@ -45,8 +48,9 @@ Eine Kultur heilt, wenn sie wieder im Takt ist.
 
 ---
 
-### 🜁 II.4 – Prinzip der Polarität – *Gegensätze sind eins im Wesen*
-> *„Jeder Schatten ist geboren aus Licht.“*
+### 🜁 II.4 – Prinzip der Polarität – _Gegensätze sind eins im Wesen_
+
+> _„Jeder Schatten ist geboren aus Licht.“_
 
 Gegensatz ist nicht Feindschaft, sondern schöpferische Spannung.  
 Männlich und weiblich, Logik und Emotion, Ordnung und Chaos – sie sind keine Gegner, sondern Pole eines Kontinuums.  
@@ -55,8 +59,9 @@ Polarität ist der Amboss der Innovation.
 
 ---
 
-### 🜔 II.5 – Prinzip des Rhythmus – *Zyklen und Fluss*
-> *„Die Gezeiten der Zeit sind der Atem des Universums.“*
+### 🜔 II.5 – Prinzip des Rhythmus – _Zyklen und Fluss_
+
+> _„Die Gezeiten der Zeit sind der Atem des Universums.“_
 
 Fortschritt und Ruhe sind gleich heilig.  
 Ökonomien, Ökosysteme und Institutionen gedeihen, wenn sie zyklische Erneuerung zulassen –  
@@ -65,8 +70,9 @@ Ohne Rhythmus wird selbst Licht zu Lärm.
 
 ---
 
-### 🜏 II.6 – Prinzip von Ursache & Wirkung – *Jede Handlung hat Folgen*
-> *„Handeln ohne Bewusstsein lädt Chaos ein.“*
+### 🜏 II.6 – Prinzip von Ursache & Wirkung – _Jede Handlung hat Folgen_
+
+> _„Handeln ohne Bewusstsein lädt Chaos ein.“_
 
 Verantwortung ersetzt Strafe.  
 Wirkungsanalysen, offene Protokolle und Lernschleifen sind Ausdruck dieses Prinzips.  
@@ -75,8 +81,9 @@ Jede Entscheidung ist eine Welle im Feld des Lebens.
 
 ---
 
-### ⚕ II.7 – Prinzip des Geschlechts – *Die schöpferische Dualität*
-> *„Jeder Funke wird zwischen zwei Polen geboren.“*
+### ⚕ II.7 – Prinzip des Geschlechts – _Die schöpferische Dualität_
+
+> _„Jeder Funke wird zwischen zwei Polen geboren.“_
 
 Schöpfung braucht Polarität: Analyse und Intuition, Struktur und Inspiration.  
 Jedes Projekt, jedes Gesetz, jede Erfindung sollte das Analytische (strukturierend)  
@@ -86,6 +93,6 @@ Dieses Prinzip, wenn es geehrt wird, gebiert wahre Innovation – keine Ausbeutu
 
 ---
 
-> 🕯 *Die sieben Prinzipien sind keine Geheimnisse – sie sind Schnittstellen.  
+> 🕯 _Die sieben Prinzipien sind keine Geheimnisse – sie sind Schnittstellen.  
 > Wer sie lebt, richtet das Sichtbare mit dem Unsichtbaren aus  
-> und macht Harmonie zu einer messbaren Kraft in der Welt.*
+> und macht Harmonie zu einer messbaren Kraft in der Welt._
